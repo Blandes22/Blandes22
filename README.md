@@ -1,6 +1,7 @@
 - I’m @Blandes22
-- As of now I am still very much so learning how to code but the end game will be learning about software engineering, machine learning, and game development.
-- My main focus right now is SFML with c++. I am also working on learning Python, JavaScript, SQL, CSS, and HTML.
+- As of now I am still very much so learning how to code. The end game will be learning about software engineering, machine learning, and game development.
+- My strongest language is c++ however, I am also working on learning Python, JavaScript, SQL, CSS, and HTML.
+- I am currently working on some projects based loosely off of freecodecamp(dot)org. They will be posted as they are finished.
 - I’m looking to collaborate on any projects that will help me further my knowledge or help others furhter their knowledge.
 
 <!---
